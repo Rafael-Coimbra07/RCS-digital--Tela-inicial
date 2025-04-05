@@ -60,7 +60,7 @@ a.rodape{
 
 
 .fotoc{
-    background-image: url(/Group\ 4.png);
+    background-image: url(Group\ 4.png);
     background-repeat: none;
     background-size: cover;
     width: 1532px;
@@ -261,7 +261,7 @@ p.processadorese2 {
     margin-left: -30px;
 }
 
-.fundo {background-image: url(/fundo.png);
+.fundo {background-image: url(fundo.png);
         background-repeat: none;
         background-size: cover;
         height: 503px;
